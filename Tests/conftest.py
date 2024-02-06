@@ -18,7 +18,7 @@ def setup(request):
         option.add_argument("--headless")
         service_obj = Service(
             "C:\\Users\\9337098512\\OneDrive\\Desktop\\SudhansuAutomation\\Orange_HRM\\Drivers\\chromedriver.exe")
-        driver = webdriver.Chrome(service=service_obj, options=option)
+        driver = webdriver.Chrome(service=service_obj,options=option)
     elif browser_name == "edge":
         service_obj = Service(
             "C:\\Users\\9337098512\\OneDrive\\Desktop\\SudhansuAutomation\\Orange_HRM\\Drivers\\msedgedriver.exe.exe")

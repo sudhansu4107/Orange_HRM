@@ -19,3 +19,17 @@
 2024-02-06 12:22:32,899:INFO:User name has enterd.
 2024-02-06 12:23:07,509:DEBUG:Test started
 2024-02-06 12:23:08,051:INFO:User name has enterd.
+2024-02-06 13:03:15,728:DEBUG:Test started
+2024-02-06 13:03:16,244:INFO:User name has enterd.
+2024-02-06 13:05:49,213:DEBUG:Test started
+2024-02-06 13:05:49,821:INFO:User name has enterd.
+2024-02-06 13:06:06,193:INFO:password has enterd.
+2024-02-06 13:06:16,196:DEBUG:sleep for 10 sec
+2024-02-06 13:06:18,939:DEBUG:test completed successfully
+2024-02-06 13:07:00,839:DEBUG:Test started
+2024-02-06 13:07:02,248:INFO:User name has enterd.
+2024-02-06 13:08:19,202:DEBUG:Test started
+2024-02-06 13:08:19,900:INFO:User name has enterd.
+2024-02-06 13:08:20,003:INFO:password has enterd.
+2024-02-06 13:08:30,003:DEBUG:sleep for 10 sec
+2024-02-06 13:08:32,744:DEBUG:test completed successfully
