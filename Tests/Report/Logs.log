@@ -1,0 +1,21 @@
+2024-02-06 11:59:52,155:DEBUG:Test started
+2024-02-06 12:00:11,323:DEBUG:sleep for 10 sec
+2024-02-06 12:02:00,326:DEBUG:Test started
+2024-02-06 12:02:17,204:DEBUG:sleep for 10 sec
+2024-02-06 12:04:01,444:DEBUG:Test started
+2024-02-06 12:05:31,238:DEBUG:Test started
+2024-02-06 12:05:49,158:DEBUG:sleep for 10 sec
+2024-02-06 12:06:41,383:DEBUG:Test started
+2024-02-06 12:06:57,357:DEBUG:sleep for 10 sec
+2024-02-06 12:07:01,040:DEBUG:test completed successfully
+2024-02-06 12:12:29,635:DEBUG:Test started
+2024-02-06 12:12:31,416:INFO:User name has enterd.
+2024-02-06 12:13:15,368:DEBUG:Test started
+2024-02-06 12:13:15,835:INFO:User name has enterd.
+2024-02-06 12:13:20,213:INFO:password has enterd.
+2024-02-06 12:13:30,215:DEBUG:sleep for 10 sec
+2024-02-06 12:13:34,222:DEBUG:test completed successfully
+2024-02-06 12:22:32,275:DEBUG:Test started
+2024-02-06 12:22:32,899:INFO:User name has enterd.
+2024-02-06 12:23:07,509:DEBUG:Test started
+2024-02-06 12:23:08,051:INFO:User name has enterd.
